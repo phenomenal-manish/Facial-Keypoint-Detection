@@ -48,11 +48,6 @@ cd P1_Facial_Keypoints
 	pip install torchvision
 	```
 
-6. Install a few required pip packages, which are specified in the requirements text file (including OpenCV).
-```
-pip install -r requirements.txt
-```
-
 
 ### Data
 
